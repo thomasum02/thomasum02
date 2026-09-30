@@ -1,12 +1,3 @@
-# Thomas Um
-
-**Ingénieur Systèmes, Réseaux & Cloud** · Bac+5 · 3 ans d'alternance en BUILD et RUN
-📍 Île-de-France · 🔎 En recherche de CDI, disponible immédiatement
-
-- **RUN en production** : supervision et incidents N2/N3 sur 1 600 serveurs multi-sites (SPIE ICS, client BnF)
-- **BUILD et prototypage** : plateformes Kubernetes durcies, IaC et virtualisation en équipe d'incubation (Orange Business)
-- **Ce qui m'intéresse** : Systèmes, automatisation d'infrastructure, orchestration
-
 ## 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/thomasum01/) · thomasum02@gmail.com
@@ -28,4 +19,4 @@ Projets
 | Projet | Description |
 |---|---|
 | [k8s-gitops-fullstack](https://github.com/thomasum02/k8s-gitops-fullstack) | Chaîne DevOps complète pour une application Todo (React + Node.js/Express) : conteneurisation durcie, pipeline GitLab CI/CD avec scans de sécurité, déploiement GitOps via ArgoCD et observabilité avec la stack LGTM + Alloy, sur un cluster K3s multi-nœuds.
-| [PROJET_2](https://github.com/thomasum02/PROJET_2) | À compléter |
+| [PROJET_2](https://github.com/thomasum02/PROJET_2) 
