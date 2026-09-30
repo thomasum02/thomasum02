@@ -27,5 +27,5 @@ Projets
 
 | Projet | Description |
 |---|---|
-| [PROJET_1](https://github.com/thomasum02/PROJET_1) | À compléter : une phrase sur ce que fait le projet et les technos |
+| [k8s-gitops-fullstack](https://github.com/thomasum02/k8s-gitops-fullstack) | Chaîne DevOps complète pour une application Todo (React + Node.js/Express) : conteneurisation durcie, pipeline GitLab CI/CD avec scans de sécurité, déploiement GitOps via ArgoCD et observabilité avec la stack LGTM + Alloy, sur un cluster K3s multi-nœuds.
 | [PROJET_2](https://github.com/thomasum02/PROJET_2) | À compléter |
