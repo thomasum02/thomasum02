@@ -7,7 +7,10 @@
 - **BUILD et prototypage** : plateformes Kubernetes durcies, IaC et virtualisation en équipe d'incubation (Orange Business)
 - **Ce qui m'intéresse** : Systèmes, automatisation d'infrastructure, orchestration
 
+## 📫 Contact
+
 [LinkedIn](https://www.linkedin.com/in/thomasum01/) · thomasum02@gmail.com
+
 
 Stack
 
@@ -26,7 +29,3 @@ Projets
 |---|---|
 | [PROJET_1](https://github.com/thomasum02/PROJET_1) | À compléter : une phrase sur ce que fait le projet et les technos |
 | [PROJET_2](https://github.com/thomasum02/PROJET_2) | À compléter |
-
-## 📫 Contact
-
-[LinkedIn](https://www.linkedin.com/in/thomasum01/) · thomasum02@gmail.com
